@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Abhinav Pathak — The Anthology</title>
+  <desc id="desc">Cyber Security Analyst and AI Software Engineer building secure systems and intelligent applications.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10090d"/>
+      <stop offset="0.62" stop-color="#1b0b12"/>
+      <stop offset="1" stop-color="#290d17"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="48%" r="52%">
+      <stop offset="0" stop-color="#e5132b" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#e5132b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="22" fill="url(#bg)" stroke="#54202e" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="22" fill="url(#glow)"/>
+  <path d="M770 0h430v360H940c-95-69-153-171-170-360Z" fill="#e5132b" opacity=".055"/>
+  <path d="M910 0c19 141 88 257 207 360" fill="none" stroke="#e5132b" stroke-opacity=".22" stroke-width="1"/>
+  <path d="M1010 0c16 117 74 217 174 300" fill="none" stroke="#e5132b" stroke-opacity=".15" stroke-width="1"/>
+  <circle cx="1000" cy="177" r="118" fill="none" stroke="#f04a5d" stroke-opacity=".26" stroke-width="1"/>
+  <circle cx="1000" cy="177" r="92" fill="#190b12" fill-opacity=".72" stroke="#e5132b" stroke-opacity=".54" stroke-width="2"/>
+  <text x="1000" y="198" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" fill="#f8f0f3">AP</text>
+  <circle cx="1095" cy="95" r="5" fill="#ff5369"/>
+  <circle cx="902" cy="252" r="3" fill="#ff5369" opacity=".8"/>
+  <text x="66" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3.5" fill="#ff5369">THE ANTHOLOGY  /  PORTFOLIO • PROJECTS • SECURITY</text>
+  <text x="62" y="161" font-family="'Arial Narrow', Impact, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="1" fill="#fff5f6">ABHINAV</text>
+  <text x="62" y="234" font-family="'Arial Narrow', Impact, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="1" fill="#fff5f6">PATHAK<tspan fill="#e5132b">.</tspan></text>
+  <text x="67" y="278" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="1" fill="#e8d9dd">CYBER SECURITY ANALYST  ·  AI SOFTWARE ENGINEER</text>
+  <text x="67" y="319" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#bd9da6">Building secure systems and intelligent applications.</text>
+  <rect x="1067" y="310" width="60" height="3" rx="1.5" fill="#e5132b"/>
+</svg>
