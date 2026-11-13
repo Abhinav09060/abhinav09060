@@ -8,7 +8,11 @@
 <text x="60" y="95" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fdbb2d">CYBER SECURITY ANALYST &amp; AI SOFTWARE ENGINEER</text>
 <text x="60" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="700" fill="#1a1a1a">Hello, I'm</text>
 <text x="60" y="240" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="700" fill="#1a1a1a">Abhinav Pathak</text>
+<<<<<<< HEAD
 <text x="60" y="285" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#6b6b6b">Building secure systems that think.</text>
+=======
+<text x="60" y="285" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#6b6b6b">B.Tech CSE at LPU. Java, Python and LLM-powered apps.</text>
+>>>>>>> cf1052d (Updated)
 <rect x="60" y="318" width="150" height="44" rx="10" fill="#fdbb2d"/>
 <text x="135" y="346" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#1a1a1a">Portfolio</text>
 <rect x="226" y="319" width="148" height="42" rx="10" fill="none" stroke="#1a1a1a" stroke-width="2"/>
