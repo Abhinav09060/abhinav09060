@@ -93,7 +93,9 @@
 <h2 align="center">05 &nbsp; / &nbsp; THE COMMIT LOG</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav09060&show_icons=true&hide_border=true&border_radius=12&bg_color=190B12&title_color=F04A5D&text_color=E8D9DD&icon_color=E5132B&custom_title=GitHub%20at%20a%20glance" width="420" alt="GitHub stats">
+  <a href="https://github.com/Abhinav09060">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinav09060&theme=radical" width="420" alt="GitHub contribution and repository stats">
+  </a>
 </p>
 
 <picture>
