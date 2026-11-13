@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">Certifications and training</title>
+  <desc id="desc">Agentic AI training at Lovely Professional University, Coursera Ethical Hacking, GeeksforGeeks Java, and Cisco Networking Academy Python.</desc>
+  <rect x="1" y="1" width="898" height="248" rx="18" fill="#10090d" stroke="#54202e" stroke-width="2"/>
+  <text x="32" y="40" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#ff5369">06  /  CERTIFICATIONS</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="43" cy="77" r="5" fill="#e5132b"/>
+    <text x="62" y="82" font-size="16" font-weight="700" fill="#f8f0f3">Agentic AI Program</text>
+    <text x="320" y="82" font-size="15" fill="#bd9da6">Lovely Professional University</text>
+    <text x="855" y="82" text-anchor="end" font-size="14" fill="#ff8997">2026</text>
+    <path d="M32 98h836" stroke="#54202e"/>
+    <circle cx="43" cy="119" r="5" fill="#e5132b"/>
+    <text x="62" y="124" font-size="16" font-weight="700" fill="#f8f0f3">Ethical Hacking</text>
+    <text x="320" y="124" font-size="15" fill="#bd9da6">Coursera</text>
+    <text x="855" y="124" text-anchor="end" font-size="14" fill="#ff8997">2026</text>
+    <path d="M32 140h836" stroke="#54202e"/>
+    <circle cx="43" cy="161" r="5" fill="#e5132b"/>
+    <text x="62" y="166" font-size="16" font-weight="700" fill="#f8f0f3">Java Certification</text>
+    <text x="320" y="166" font-size="15" fill="#bd9da6">GeeksforGeeks</text>
+    <text x="855" y="166" text-anchor="end" font-size="14" fill="#ff8997">2025</text>
+    <path d="M32 182h836" stroke="#54202e"/>
+    <circle cx="43" cy="203" r="5" fill="#e5132b"/>
+    <text x="62" y="208" font-size="16" font-weight="700" fill="#f8f0f3">Python</text>
+    <text x="320" y="208" font-size="15" fill="#bd9da6">Cisco Networking Academy</text>
+    <text x="855" y="208" text-anchor="end" font-size="14" fill="#ff8997">2025</text>
+  </g>
+</svg>

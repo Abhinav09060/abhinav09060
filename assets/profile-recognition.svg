@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="204" viewBox="0 0 900 204" role="img" aria-labelledby="title desc">
+  <title id="title">Recognition</title>
+  <desc id="desc">Top 20 of 200 teams at Webathon 2.0 and top 15 of 105 teams in an event-booking platform challenge.</desc>
+  <rect x="1" y="1" width="898" height="202" rx="18" fill="#10090d" stroke="#54202e" stroke-width="2"/>
+  <text x="32" y="40" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#ff5369">02  /  RECOGNITION</text>
+  <rect x="32" y="61" width="402" height="111" rx="13" fill="#1b0b12" stroke="#54202e"/>
+  <rect x="466" y="61" width="402" height="111" rx="13" fill="#1b0b12" stroke="#54202e"/>
+  <text x="54" y="111" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#ff5369">TOP 20 / 200</text>
+  <text x="54" y="140" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#f8f0f3">Webathon 2.0</text>
+  <text x="205" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#bd9da6">Smart document summarization app</text>
+  <text x="488" y="111" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#ff5369">TOP 15 / 105</text>
+  <text x="488" y="140" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#f8f0f3">Event-booking platform</text>
+  <text x="488" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#bd9da6">Java · Spring Boot · MySQL</text>
+</svg>

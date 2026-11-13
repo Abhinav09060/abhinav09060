@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="178" viewBox="0 0 900 178" role="img" aria-labelledby="title desc">
+  <title id="title">Process Monitor App</title>
+  <desc id="desc">A real-time dashboard for CPU, memory, and active process monitoring.</desc>
+  <rect x="1" y="1" width="898" height="176" rx="18" fill="#10090d" stroke="#54202e" stroke-width="2"/>
+  <rect x="1" y="22" width="5" height="134" rx="2.5" fill="#e5132b"/>
+  <text x="31" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#ff5369">SYSTEMS  ·  2025</text>
+  <text x="31" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="700" fill="#f8f0f3">Process Monitor App</text>
+  <text x="31" y="109" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#bd9da6">A live dashboard for CPU usage, memory consumption, and running processes,</text>
+  <text x="31" y="132" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#bd9da6">built as a hands-on Operating Systems project.</text>
+  <rect x="31" y="145" width="73" height="22" rx="11" fill="#291019"/><text x="67" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#ff8997">C / C++</text>
+  <rect x="112" y="145" width="78" height="22" rx="11" fill="#291019"/><text x="151" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#ff8997">PYTHON</text>
+  <rect x="198" y="145" width="93" height="22" rx="11" fill="#291019"/><text x="244" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#ff8997">OS CONCEPTS</text>
+  <circle cx="824" cy="82" r="44" fill="#1b0b12" stroke="#e5132b" stroke-opacity=".65" stroke-width="2"/>
+  <rect x="801" y="62" width="46" height="39" rx="4" fill="none" stroke="#ff5369" stroke-width="2"/>
+  <path d="M808 91V82h7v9m4 0V73h7v18m4 0V78h7v13" fill="none" stroke="#ff5369" stroke-width="2"/>
+</svg>

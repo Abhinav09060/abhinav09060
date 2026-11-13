@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">About Abhinav Pathak</title>
+  <desc id="desc">Computer Science student at Lovely Professional University building software across AI, full-stack development, and cybersecurity.</desc>
+  <rect x="1" y="1" width="898" height="248" rx="18" fill="#10090d" stroke="#54202e" stroke-width="2"/>
+  <rect x="1" y="24" width="5" height="112" rx="2.5" fill="#e5132b"/>
+  <text x="34" y="41" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#ff5369">01  /  THE PILOT</text>
+  <text x="34" y="80" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#f8f0f3">Building secure systems and intelligent applications.</text>
+  <text x="34" y="111" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#bd9da6">B.Tech Computer Science student at Lovely Professional University, exploring AI,</text>
+  <text x="34" y="136" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#bd9da6">software engineering, and cybersecurity through practical projects.</text>
+  <rect x="34" y="169" width="255" height="57" rx="11" fill="#1b0b12" stroke="#54202e"/>
+  <rect x="310" y="169" width="255" height="57" rx="11" fill="#1b0b12" stroke="#54202e"/>
+  <rect x="586" y="169" width="280" height="57" rx="11" fill="#1b0b12" stroke="#54202e"/>
+  <text x="52" y="193" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" fill="#ff5369">EDUCATION</text>
+  <text x="52" y="214" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#f8f0f3">B.Tech CSE · 2024–present</text>
+  <text x="328" y="193" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" fill="#ff5369">ACADEMICS</text>
+  <text x="328" y="214" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#f8f0f3">7.6 CGPA · LPU</text>
+  <text x="604" y="193" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" fill="#ff5369">FOCUS</text>
+  <text x="604" y="214" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#f8f0f3">AI · Software · Security</text>
+</svg>

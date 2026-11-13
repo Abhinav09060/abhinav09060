@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="118" viewBox="0 0 900 118" role="img" aria-labelledby="title desc">
+  <title id="title">Let's build something</title>
+  <desc id="desc">Connect with Abhinav Pathak to build secure, useful software.</desc>
+  <rect x="1" y="1" width="898" height="116" rx="18" fill="#10090d" stroke="#54202e" stroke-width="2"/>
+  <text x="32" y="39" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#ff5369">07  /  CONNECT</text>
+  <text x="32" y="79" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#f8f0f3">Let's build something worth explaining.</text>
+  <path d="M775 59h54m-13-13 13 13-13 13" fill="none" stroke="#e5132b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

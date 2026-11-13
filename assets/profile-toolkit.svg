@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="286" viewBox="0 0 900 286" role="img" aria-labelledby="title desc">
+  <title id="title">Technical toolkit</title>
+  <desc id="desc">Languages, frameworks, AI tools, databases, and development tools used by Abhinav.</desc>
+  <rect x="1" y="1" width="898" height="284" rx="18" fill="#10090d" stroke="#54202e" stroke-width="2"/>
+  <text x="32" y="40" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#ff5369">04  /  THE TOOLKIT</text>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#f8f0f3">
+    <text x="32" y="82" font-size="14" font-weight="700">LANGUAGES</text>
+    <text x="32" y="126" font-size="14" font-weight="700">FRAMEWORKS</text>
+    <text x="32" y="170" font-size="14" font-weight="700">AI &amp; DATA</text>
+    <text x="32" y="214" font-size="14" font-weight="700">PLATFORM</text>
+    <text x="32" y="258" font-size="14" font-weight="700">CORE CS</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" text-anchor="middle">
+    <g fill="#291019" stroke="#7b263a">
+      <rect x="190" y="61" width="66" height="29" rx="14"/><rect x="264" y="61" width="76" height="29" rx="14"/><rect x="348" y="61" width="51" height="29" rx="14"/><rect x="407" y="61" width="58" height="29" rx="14"/><rect x="473" y="61" width="61" height="29" rx="14"/>
+      <rect x="190" y="105" width="106" height="29" rx="14"/><rect x="304" y="105" width="89" height="29" rx="14"/><rect x="401" y="105" width="72" height="29" rx="14"/><rect x="481" y="105" width="78" height="29" rx="14"/>
+      <rect x="190" y="149" width="89" height="29" rx="14"/><rect x="287" y="149" width="84" height="29" rx="14"/><rect x="379" y="149" width="57" height="29" rx="14"/><rect x="444" y="149" width="82" height="29" rx="14"/><rect x="534" y="149" width="82" height="29" rx="14"/>
+      <rect x="190" y="193" width="79" height="29" rx="14"/><rect x="277" y="193" width="78" height="29" rx="14"/><rect x="363" y="193" width="82" height="29" rx="14"/><rect x="453" y="193" width="83" height="29" rx="14"/><rect x="544" y="193" width="72" height="29" rx="14"/>
+      <rect x="190" y="237" width="54" height="29" rx="14"/><rect x="252" y="237" width="58" height="29" rx="14"/><rect x="318" y="237" width="43" height="29" rx="14"/><rect x="369" y="237" width="165" height="29" rx="14"/>
+    </g>
+    <g fill="#ff8997">
+      <text x="223" y="80">Java</text><text x="302" y="80">Python</text><text x="373" y="80">C</text><text x="436" y="80">C++</text><text x="503" y="80">SQL</text>
+      <text x="243" y="124">Spring Boot</text><text x="348" y="124">Streamlit</text><text x="437" y="124">NumPy</text><text x="520" y="124">Pandas</text>
+      <text x="234" y="168">Gemini API</text><text x="329" y="168">LLMs</text><text x="408" y="168">NLP</text><text x="485" y="168">MySQL</text><text x="575" y="168">MongoDB</text>
+      <text x="229" y="212">Docker</text><text x="316" y="212">Git</text><text x="404" y="212">GitHub</text><text x="494" y="212">Linux</text><text x="580" y="212">VS Code</text>
+      <text x="217" y="256">DSA</text><text x="281" y="256">DBMS</text><text x="339" y="256">OS</text><text x="451" y="256">Computer Networks</text>
+    </g>
+  </g>
+</svg>
