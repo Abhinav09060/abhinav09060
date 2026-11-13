@@ -1,11 +1,15 @@
 <div align="center">
 
-[![Abhinav Pathak, Cyber Security Analyst and AI Software Engineer](assets/hero.svg)](https://YOUR_PORTFOLIO_URL)
+[![Abhinav Pathak, Cyber Security Analyst and AI Software Engineer](assets/hero.svg)](https://abhinav09060.github.io)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-FDBB2D?style=for-the-badge&labelColor=1A1A1A&logo=githubpages&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-FDBB2D?style=for-the-badge&labelColor=1A1A1A&logo=githubpages&logoColor=white)](https://abhinav09060.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-FDBB2D?style=for-the-badge&labelColor=1A1A1A&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-pathak-/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhinavpathak09-FDBB2D?style=for-the-badge&labelColor=1A1A1A&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhinavpathak09/)
 [![Email](https://img.shields.io/badge/Email-write_me-FDBB2D?style=for-the-badge&labelColor=1A1A1A&logo=gmail&logoColor=white)](mailto:abhinavp142@gmail.com)
+
+[![Live portfolio preview](assets/site-preview.gif)](https://abhinav09060.github.io)
+
+**[Open the full interactive site](https://abhinav09060.github.io)**
 
 ![01 About](assets/title-about.svg)
 
