@@ -1,21 +1,42 @@
-# 💫 About Me:
-## Hi there 👋, I'm Abhinav Pathak<br><br>🎓 B.Tech Student | Cybersecurity Engineer<br><br>🔐 Currently focused on Cybersecurity, Network Security, and Ethical Hacking.<br><br>🤖 Built AI-powered applications using Python and LLMs, including projects that simplify code understanding through Generative AI.<br><br>💻 Interested in:<br>- Cybersecurity<br>- Penetration Testing<br>- Malware Analysis<br>- AI Security<br>- Python Automation<br><br>🚀 Currently Learning:<br>- Linux<br>- Networking<br>- Web Security<br>- OWASP Top 10<br>- CTFs<br>- Digital Forensics<br><br>📫 Reach me:<br>LinkedIn: www.linkedin.com/in/abhinav-pathak-/<br>Email: abhinavp142@gmail.com
+<div align="center">
 
+[![Abhinav Pathak, Cyber Security Analyst and AI Software Engineer](assets/hero.svg)](https://YOUR_PORTFOLIO_URL)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhinav-pathak-/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-FDBB2D?style=for-the-badge&labelColor=1A1A1A&logo=githubpages&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-FDBB2D?style=for-the-badge&labelColor=1A1A1A&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhinavpathak09-FDBB2D?style=for-the-badge&labelColor=1A1A1A&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhinavpathak09/)
+[![Email](https://img.shields.io/badge/Email-write_me-FDBB2D?style=for-the-badge&labelColor=1A1A1A&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhinav09060&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abhinav09060&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhinav09060&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![01 About](assets/title-about.svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![About](assets/about.svg)
 
----
-[![](https://komarev.com/ghpvc/?username=abhinav09060&icon=0&color=0)](https://visitcount.itsvg.in)
+![02 Selected work](assets/title-work.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Gesture-Controlled Drone](assets/project-drone.svg)](https://github.com/YOUR_USERNAME/YOUR_DRONE_REPO)
+[![AI Resume Analyser Bot](assets/project-airab.svg)](https://github.com/YOUR_USERNAME/YOUR_AIRAB_REPO)
+[![CodeExplain](assets/project-codeexplain.svg)](https://github.com/YOUR_USERNAME/YOUR_CODEEXPLAIN_REPO)
+[![Cross-platform Todo App](assets/project-todo.svg)](https://github.com/YOUR_USERNAME/YOUR_TODO_REPO)
+
+![03 Toolkit](assets/title-toolkit.svg)
+
+![Toolkit](assets/toolkit.svg)
+
+![04 Commit log](assets/title-commits.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+</picture>
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=fbfcff&title_color=1a1a1a&text_color=6b6b6b&icon_color=fdbb2d&border_radius=16">
+
+![05 Certifications](assets/title-certs.svg)
+
+![Certifications](assets/certifications.svg)
+
+![06 Connect](assets/title-connect.svg)
+
+![Signature](assets/footer.svg)
+
+</div>
